@@ -1,0 +1,11 @@
+{
+    "server": {
+        "port": 10000
+    },
+    "db": {
+        "username": "arsovn",
+        "password": "Pa$$w0rd",
+        "host": "cluster0.k9uiu.mongodb.net/",
+        "dbname": "js09"
+    }
+}
